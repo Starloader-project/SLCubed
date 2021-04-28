@@ -1,0 +1,7 @@
+# Eclipse (CDT) Files
+.cproject
+.project
+.settings/
+
+# GCC output file
+a.out
